@@ -1,0 +1,9 @@
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\obj\x86\Debug\TestMe.Form1.resources
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\obj\x86\Debug\TestMe.Properties.Resources.resources
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\bin\Debug\TestMe.exe
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\bin\Debug\TestMe.pdb
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\obj\x86\Debug\TestMe.exe
+C:\Users\mark.yendt\Desktop\TestMe\TestMe\obj\x86\Debug\TestMe.pdb
